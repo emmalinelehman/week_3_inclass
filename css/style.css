@@ -1,0 +1,60 @@
+/* Style the body*/
+body {
+    margin: 1%;
+    padding: 5%;
+    font-size: 100%;
+}
+
+/* Style h1*/
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+/* Style h2*/
+h2 {
+    font-size: 150%;
+    font-style: oblique;
+}
+
+/* style lists */
+ul {
+    list-style: disc;
+}
+
+/*style all images*/
+img {
+    width: 25%;
+    border: 3px dotted #0000ff;
+    padding: 25px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+/* style banner class container */
+.banner {
+    width: 100%;
+    display: block;
+}
+
+/* style banner class image*/
+.banner img {
+    width: 100%;
+    display: block;
+}
+
+/* style middle div*/
+.middle {
+    background-color: #ffff00;
+}
+
+/*style h2*/
+h2 {
+    color: #ff0000;
+}
+
+/*style first and last list items*/
+.highlight {
+    text-transform: uppercase;
+    background-color: #00ffff;
+}
